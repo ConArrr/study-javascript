@@ -11,8 +11,6 @@ cd ajaxapp
 npx --yes @js-primer/local-server
 ```
 
-## npm - パッケージ管理
-
 ## JavaScript
 
 ### 同期処理と非同期処理
@@ -63,6 +61,8 @@ Pending -> Fulfilled  # 成功
 #### Async Function
 
 async function
+
+## npm - パッケージ管理
 
 ### npx
 
